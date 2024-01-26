@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "685084008705",
+    "project_id": "my-application-7a32c",
+    "storage_bucket": "my-application-7a32c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685084008705:android:cab60d024f2e3935613b00",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.studentmgt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685084008705-epb2vn88is85sp9qhodu65vluflga0j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTFuY7bfq4aaCCqbgqqqUIWaGO67KO66M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685084008705-epb2vn88is85sp9qhodu65vluflga0j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685084008705:android:6b8c37c6b1780833613b00",
+        "android_client_info": {
+          "package_name": "com.rrtutors.schoolmanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685084008705-epb2vn88is85sp9qhodu65vluflga0j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTFuY7bfq4aaCCqbgqqqUIWaGO67KO66M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685084008705-epb2vn88is85sp9qhodu65vluflga0j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
